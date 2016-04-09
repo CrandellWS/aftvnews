@@ -8,13 +8,13 @@
         showSearch: true,
         skipLength: 30,
         controlsHideTime: 3000,
-        user: "AFTVnews.com",
+        user: "AFTVnews",
         devKey: "AIzaSyBfvEuCSKw9KpYACEMhiRoiEz507WMSoX0",
         channels: [
             {
                 type: "multiPlaylists",
                 ids: ["UC05u3RftzcDWquz9j3FiNtg"],
-                title: "AFTVnews"
+                title: "AFTVnews.com"
             }
         ],
         displayButtons: true
