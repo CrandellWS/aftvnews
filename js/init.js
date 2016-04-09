@@ -13,7 +13,7 @@
         channels: [
             {
                 type: "multiPlaylists",
-                ids: ["UC05u3RftzcDWquz9j3FiNtg"],
+                ids: ["PLnleSo_KL0pXdy2IhAuxE5XO5ylOh8JK9"],
                 title: "AFTVnews.com"
             }
         ],
